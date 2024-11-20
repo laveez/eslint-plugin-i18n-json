@@ -54,7 +54,7 @@
     "eslint-plugin-import": "^2.8.0",
     "espree": "^3.5.2",
     "jest": "^23.0.4",
-    "strip-ansi": "^4.0.0"
+    "strip-ansi": "^7.1.0"
   },
   "dependencies": {
     "@formatjs/icu-messageformat-parser": "^2.0.18",
