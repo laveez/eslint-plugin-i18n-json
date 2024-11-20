@@ -52,7 +52,7 @@
     "eslint": "^4.15.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
-    "espree": "^3.5.2",
+    "espree": "^10.3.0",
     "jest": "^23.0.4",
     "strip-ansi": "^4.0.0"
   },
